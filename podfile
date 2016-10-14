@@ -1,0 +1,5 @@
+target ‘MJRefresh_Test’ do
+
+pod 'MJRefresh'
+
+end
